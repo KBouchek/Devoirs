@@ -1,0 +1,55 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.k.devoirs.DevoirFragment"
+    android:id="@+id/tutu"
+    >
+
+    <RelativeLayout
+        android:id="@+id/layoutid2"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="fill_vertical"
+        >
+
+        <TextView
+            android:id="@+id/classe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:text="donné le "
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:visibility="gone"
+
+            />
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="donné le "
+            android:textSize="25sp"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            />
+        <TextView android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/travaildonne"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:textSize="40sp"
+            android:layout_below="@id/date"
+            android:text="tttttttt"
+          />
+    </RelativeLayout >
+
+
+</FrameLayout>

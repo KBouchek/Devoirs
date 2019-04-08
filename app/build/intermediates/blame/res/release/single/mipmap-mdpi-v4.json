@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\k\\AndroidStudioProjects\\Devoirs\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4\\add.png",
+        "source": "C:\\Users\\k\\AndroidStudioProjects\\Devoirs\\app\\src\\main\\res\\mipmap-mdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\k\\AndroidStudioProjects\\Devoirs\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4\\del.png",
+        "source": "C:\\Users\\k\\AndroidStudioProjects\\Devoirs\\app\\src\\main\\res\\mipmap-mdpi\\del.png"
+    },
+    {
+        "merged": "C:\\Users\\k\\AndroidStudioProjects\\Devoirs\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\k\\AndroidStudioProjects\\Devoirs\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\k\\AndroidStudioProjects\\Devoirs\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4\\dev.png",
+        "source": "C:\\Users\\k\\AndroidStudioProjects\\Devoirs\\app\\src\\main\\res\\mipmap-mdpi\\dev.png"
+    },
+    {
+        "merged": "C:\\Users\\k\\AndroidStudioProjects\\Devoirs\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4\\ic_keyboard.png",
+        "source": "C:\\Users\\k\\AndroidStudioProjects\\Devoirs\\app\\src\\main\\res\\mipmap-mdpi\\ic_keyboard.png"
+    }
+]
